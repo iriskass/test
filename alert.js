@@ -1,1 +1,1 @@
-alert('alert');
+parent.alert('alert');
