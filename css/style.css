@@ -1,0 +1,18 @@
+html, body {
+  background-color: #e2e2e2;
+  margin: 0px;
+}
+
+.helloWorld {
+  width: 220px;
+  max-width: 220px;
+  float:left;
+  height: 128px;
+  color: #ffffff;
+  background-color: #666;
+  margin: 24px;
+  text-align: center;
+  padding: 12px;
+  border: 1px solid #000000;
+  border-radius: 0px 4px 8px 16px;
+}
